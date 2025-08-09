@@ -50,8 +50,8 @@ Professional with three years of experience in software development, holding a B
 🌐 Full stack development  
 🎨 UI/UX and immersive experiences  
 🏗️ System architecture and modernization  
-⚙️ Developer tooling and creative tech  
-💾 Database management and data pipelines
+🛠️ Developer tooling and creative tech  
+🗄️ Database management and data pipelines
 
 ## 💻 Technologies
 
