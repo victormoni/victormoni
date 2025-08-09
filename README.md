@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.png" alt="Banner" width="100%" style="border-radius:12px;">
+</p>
+
 # Hello! I'm Victor 👋
 
 🧑‍💻 About Me
