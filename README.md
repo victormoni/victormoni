@@ -2,9 +2,34 @@
   <img src="./assets/banner.png" alt="Banner" width="100%" style="border-radius:12px;">
 </p>
 
-# Hello! I'm Victor 👋
+<h1 align="center">Hello, I'm Victor Moni👋</h1>
+<h3 align="center">Full Stack Developer | Innovator | Lifelong Learner</h1>
 
-🧑‍💻 About Me
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Empowering+people+through+code.;Building+amazing+things+%F0%9F%9A%80;Crafting+impactful+solutions." alt="Typing Animation" />
+</p>
+
+<p align="center">
+  <a href="mailto:vabmoni@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="linkedin.com/in/victormoni/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/victormoni">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+  <a href="https://stackoverflow.com/users/9859219">
+  <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
+</a>
+  <a href="https://discord.gg/victormoni">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
+<a href="https://x.com/vabmoni">
+  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+</a>
+</p>
+
 
 ## 💼 Current Role
 
@@ -17,17 +42,17 @@ Junior Java Developer **@ Foursys** : 2021 - 2021
 Systems Technician **@ BRQ Digital Solutions** : 2019 - 2020  
 IT Intern **@ Itaú Unibanco** : 2018 - 2018
 
-## ☕ Bio
+## 🧑‍💻 Bio
 
 Professional with three years of experience in software development, holding a Bachelor’s degree in Information Systems and currently pursuing a postgraduate degree in Cloud Computing. I am fluent in English, have a proactive profile, adapt quickly to new tools, and focus on delivering products that generate value for both the team and the company. I work well in multidisciplinary teams and am motivated to take on challenges that foster innovation, continuous growth, and excellence in the solutions developed.
 
 ## 🚀 Core Focus Areas
 
-Full stack development  
-UI/UX and immersive experiences  
-System architecture and modernization  
-Developer tooling and creative tech  
-Database management and data pipelines
+🌐 Full stack development  
+🎨 UI/UX and immersive experiences  
+🏗️ System architecture and modernization  
+⚙️ Developer tooling and creative tech  
+💾 Database management and data pipelines
 
 ## 💻 Technologies
 
@@ -102,3 +127,16 @@ Database management and data pipelines
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/victormoni/victormoni/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/victormoni/victormoni/output/pacman-contribution-graph.svg">
 </picture>
+
+## ☕ Support My Work
+
+<p align="center">
+ <a href="https://apoia.se/victormoni" target="_blank">
+  <img src="https://img.shields.io/badge/Apoia.se-2962FF?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Apoia.se" />
+</a>
+</p>
+
+<p align="center">
+  <b>Crafted with ❤️ by Victor Moni</b><br/>
+  <sub>Let’s build something incredible together.</sub>
+</p>
