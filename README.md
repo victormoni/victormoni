@@ -30,7 +30,6 @@
 </a>
 </p>
 
-
 ## 💼 Current Role
 
 Frontend Developer **@ Search Price** : 2024 - 2025
@@ -114,12 +113,13 @@ Professional with three years of experience in software development, holding a B
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)  
 <br/>
+
 <div align="center">
    
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=victormoni&show_icons=true&theme=dark&count_private=true)
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victormoni&layout=compact&theme=dark)  
 <br/>
-[![trophy](https://github-profile-trophy.vercel.app/?username=victormoni&theme=onedark&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=victormoni&theme=onedark&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 <picture>
