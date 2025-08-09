@@ -89,6 +89,7 @@ Database management and data pipelines
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=victormoni&show_icons=true&theme=dark&count_private=true) ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victormoni&layout=compact&theme=dark)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/victormoni/victormoni/output/pacman-dark.svg">
-  <img alt="pacman animation" src="https://raw.githubusercontent.com/victormoni/victormoni/output/pacman.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/victormoni/victormoni/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/victormoni/victormoni/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/victormoni/victormoni/output/pacman-contribution-graph.svg">
 </picture>
