@@ -10,11 +10,11 @@
 </p>
 
 <p align="center">
-  <a href="mailto:vabmoni@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
   <a href="mailto:victor-moni@hotmail.com">
     <img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Hotmail" />
+  </a>
+  <a href="mailto:vabmoni@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="linkedin.com/in/victormoni/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
