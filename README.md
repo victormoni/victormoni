@@ -89,6 +89,6 @@ Database management and data pipelines
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=victormoni&show_icons=true&theme=dark&count_private=true) ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victormoni&layout=compact&theme=dark)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seu-usuario/seu-usuario/output/snake-dark.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/seu-usuario/seu-usuario/output/snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/victormoni/victormoni/output/snake-dark.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/victormoni/victormoni/output/snake.svg">
 </picture>
