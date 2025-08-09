@@ -1,3 +1,5 @@
+<img src="https://photos.app.goo.gl/v5CDq9gu4j53UEb36" alt="Banner" width="100%">
+
 # Hello! I'm Victor 👋
 
 🧑‍💻 About Me
