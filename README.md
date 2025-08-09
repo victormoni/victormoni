@@ -33,7 +33,6 @@ Database management and data pipelines
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Angular Material](https://img.shields.io/badge/Angular_Material-757575?style=for-the-badge&logo=angular&logoColor=white)
@@ -87,6 +86,8 @@ Database management and data pipelines
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=victormoni&show_icons=true&theme=dark&count_private=true) ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victormoni&layout=compact&theme=dark)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=victormoni&theme=onedark&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/victormoni/victormoni/output/pacman-contribution-graph-dark.svg">
