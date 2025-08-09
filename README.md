@@ -2,32 +2,32 @@
 
 🧑‍💻 About Me
 
-## 💼 Current Role 
-  
-Frontend Developer **@ Search Price** : 2024 - 2025  
-  
-## 👔 Previous Roles  
-  
+## 💼 Current Role
+
+Frontend Developer **@ Search Price** : 2024 - 2025
+
+## 👔 Previous Roles
+
 Entrepreneur **@ Own Company** : 2021 - 2024  
 Junior Java Developer **@ Foursys** : 2021 - 2021  
 Systems Technician **@ BRQ Digital Solutions** : 2019 - 2020  
-IT Intern **@ Itaú Unibanco** : 2018 - 2018  
+IT Intern **@ Itaú Unibanco** : 2018 - 2018
 
 ## ☕ Bio
-  
+
 Professional with three years of experience in software development, holding a Bachelor’s degree in Information Systems and currently pursuing a postgraduate degree in Cloud Computing. I am fluent in English, have a proactive profile, adapt quickly to new tools, and focus on delivering products that generate value for both the team and the company. I work well in multidisciplinary teams and am motivated to take on challenges that foster innovation, continuous growth, and excellence in the solutions developed.
 
 ## 🚀 Core Focus Areas
-  
+
 Full stack development  
 UI/UX and immersive experiences  
 System architecture and modernization  
 Developer tooling and creative tech  
-Database management and data pipelines  
-  
-## 💻 Technologies    
+Database management and data pipelines
 
-### Frontend  
+## 💻 Technologies
+
+### Frontend
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -39,14 +39,14 @@ Database management and data pipelines
 ![Angular Material](https://img.shields.io/badge/Angular_Material-757575?style=for-the-badge&logo=angular&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E)
 
-### Backend  
+### Backend
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
-### Database  
+### Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -55,7 +55,7 @@ Database management and data pipelines
 ![H2 Database](https://img.shields.io/badge/H2%20Database-005499?style=for-the-badge&logo=h2&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### Testing  
+### Testing
 
 ![Karma](https://img.shields.io/badge/Karma-1CFF6A?style=for-the-badge&logo=karma&logoColor=white)
 ![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white)
@@ -64,7 +64,7 @@ Database management and data pipelines
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-### DevOps  
+### DevOps
 
 ![Bamboo](https://img.shields.io/badge/Bamboo-0052CC?style=for-the-badge&logo=bamboo&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
@@ -74,17 +74,21 @@ Database management and data pipelines
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### Design & Modeling 
+### Design & Modeling
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![UML](https://img.shields.io/badge/UML-02569B?style=for-the-badge&logo=uml&logoColor=white)
 
-### Agile & Collaboration  
+### Agile & Collaboration
 
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=victormoni&show_icons=true&theme=dark&count_private=true)    ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victormoni&layout=compact&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=victormoni&show_icons=true&theme=dark&count_private=true) ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victormoni&layout=compact&theme=dark)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seu-usuario/seu-usuario/output/snake-dark.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/seu-usuario/seu-usuario/output/snake.svg">
+</picture>
