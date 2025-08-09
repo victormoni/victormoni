@@ -1,28 +1,28 @@
+# .github/workflows/pacman.yml
 name: Generate Pac-Man
 
 on:
   schedule:
-    - cron: "0 0 * * *" # roda todo dia à meia-noite (UTC)
+    - cron: "0 0 * * *"   # roda 1x por dia (00:00 UTC)
   workflow_dispatch:
-
-permissions:
-  contents: write
+  push:
+    branches:
+      - main
 
 jobs:
-  build:
+  generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
-      - name: Generate Pac-Man SVG
-        uses: Platane/snk@v3
+      - name: Gerar pacman-contribution-graph.svg
+        uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: victormoni
-          mode: pacman
-          outputs: |
-            dist/pacman.svg?palette=github-light&color_snake=%23FFCC00
-            dist/pacman-dark.svg?palette=github-dark&color_snake=%23FFCC00
+          github_user_name: ${{ github.repository_owner }}
 
-      - name: Publish to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Publicar no branch output
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
