@@ -19,8 +19,8 @@
   <a href="https://www.linkedin.com/in/victormoni?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/victormoni">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<a href="https://x.com/vabmoni">
+  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
 </a>
   <a href="https://stackoverflow.com/users/9859219">
   <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
