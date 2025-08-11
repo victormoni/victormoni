@@ -124,8 +124,10 @@ Professional with three years of software development experience, holding a Bach
 <div align="center">
   
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victormoni&layout=compact&theme=dark) 
+<br/>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=victormoni&show_icons=true&theme=dark&count_private=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=victormoni&theme=dark)](https://git.io/streak-stats)
+[![GitHub streak](https://github-readme-streak-stats.herokuapp.com?user=victormoni&theme=dark)](https://git.io/streak-stats)
  
 <br/>
 [![trophy](https://github-profile-trophy.vercel.app/?username=victormoni&theme=onedark&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
