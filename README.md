@@ -123,12 +123,12 @@ Professional with three years of software development experience, holding a Bach
 
 <div align="center">
   
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victormoni&layout=compact&theme=dark) 
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victormoni&layout=compact&hide_border=true&theme=dark&bg_color=90,0d111700,fff) 
 
 <br/>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=victormoni&show_icons=true&theme=dark&count_private=true)
-[![GitHub streak](https://github-readme-streak-stats.herokuapp.com?user=victormoni&theme=dark)](https://git.io/streak-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=victormoni&show_icons=true&theme=dark&count_private=true&bg_color=90,0d111700,fff&hide_border=true)
+[![GitHub streak](https://github-readme-streak-stats.herokuapp.com?user=victormoni&theme=dark&&background=90,0d111700,fff&backgroundType=gradient&hide_border=true)](https://git.io/streak-stats)
  
 <br/>
 
