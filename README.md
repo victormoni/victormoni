@@ -143,11 +143,11 @@ Professional with three years of software development experience, holding a Bach
 
 ## ☕ Support My Work
 
-<p align="center">
+<div align="center">
   
 [![Donate](https://img.shields.io/badge/Donate-PayPal-0070BA?logo=paypal&logoColor=white&style=for-the-badge)](https://www.paypal.com/donate/?hosted_button_id=QJJB8GFA7QGYW)
 
-</p>
+</div>
 
 <p align="center">
   <b>Crafted with ❤️ by Victor Moni</b><br/>
