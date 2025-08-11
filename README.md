@@ -50,7 +50,7 @@ IT Intern **@ Itaú Unibanco** : 2018 - 2018
 
 ## 🧑‍💻 Bio
 
-Professional with three years of experience in software development, holding a Bachelor’s degree in Information Systems and currently pursuing a postgraduate degree in Cloud Computing. I am fluent in English, have a proactive profile, adapt quickly to new tools, and focus on delivering products that generate value for both the team and the company. I work well in multidisciplinary teams and am motivated to take on challenges that foster innovation, continuous growth, and excellence in the solutions developed.
+Professional with three years of software development experience, holding a Bachelor’s degree in Information Systems and currently pursuing a postgraduate degree in Cloud Computing. Fluent in English and proactive, I focus on delivering high-value solutions for teams and companies, excel in multidisciplinary collaboration, and embrace challenges that drive innovation, growth, and excellence.
 
 ## 🚀 Core Focus Areas
 
