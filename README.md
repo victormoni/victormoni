@@ -37,6 +37,14 @@
      src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 </div>
 
+## 🖋️ Dev Quote
+
+<div align=center>
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
+
 ## 💼 Current Role
 
 Frontend Developer **@ Search Price** : 2024 - 2025
