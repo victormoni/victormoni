@@ -144,9 +144,9 @@ Professional with three years of software development experience, holding a Bach
 ## ☕ Support My Work
 
 <p align="center">
-<a href="https://picpay.me/victormoni" target="_blank">
-  <img src="https://img.shields.io/badge/PicPay-21C25E?style=for-the-badge&logo=picpay&logoColor=white" alt="PicPay" />
-</a>
+  
+[![Donate](https://img.shields.io/badge/Donate-PayPal-0070BA?logo=paypal&logoColor=white&style=for-the-badge)](https://www.paypal.com/donate/?hosted_button_id=QJJB8GFA7QGYW)
+
 </p>
 
 <p align="center">
