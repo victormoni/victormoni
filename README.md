@@ -1,19 +1,21 @@
-<p align="center">
+<div align="center">
   <img src="./assets/banner.png" alt="Banner" width="100%" style="border-radius:12px;">
-</p>
+</div>
 
 <h1 align="center">Hi, I'm Victor Moni</h1>
 <h3 align="center">Full Stack Developer | Problem Solver | Lifelong Learner</h1>
 
-<p align="center">
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Empowering+people+through+code.;Building+amazing+things+%F0%9F%9A%80;Crafting+impactful+solutions." alt="Typing Animation" />
-</p>
+</div>
 
 <div align=center>
+  
 <img align="center" 
      alt="coding" 
      width="300" 
      src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+     
 </div>
 
 ## 🖊️ Dev Quote
@@ -39,13 +41,13 @@ Professional with three years of software development experience, holding a Bach
 
 ## 🚀 Core Focus Areas
 
-💻 Full stack development  
+🌐 Full stack development  
 🎨 UI/UX and immersive experiences  
 🏗️ System architecture and modernization  
 🛠️ Developer tooling and creative tech  
 🗄️ Database management and data pipelines
 
-## :electron: Technologies
+## 💻 Technologies
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
@@ -98,25 +100,32 @@ Professional with three years of software development experience, holding a Bach
   
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victormoni&layout=compact&hide_border=true&theme=dark&bg_color=90,0d111700,fff) 
 
-<p align="center">
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=victormoni&show_icons=true&theme=dark&count_private=true&bg_color=90,0d111700,fff&hide_border=true" alt="GitHub stats" width="400" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=victormoni&theme=dark&background=90,0d111700,fff&backgroundType=gradient&hide_border=true" alt="GitHub streaks" width="400" />
-</p>
+</div>
  
 <br/>
+
+## GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=victormoni&theme=onedark&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/victormoni/victormoni/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/victormoni/victormoni/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/victormoni/victormoni/output/pacman-contribution-graph.svg">
 </picture>
 
-## 🌐 Connect With Me
+## Activity Graph
 
-<p align="center">
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=victormoni&theme=dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## 📱 Connect With Me
+
+<div align="center">
   <a href="mailto:victor-moni@hotmail.com">
     <img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Hotmail" />
   </a>
@@ -135,7 +144,7 @@ Professional with three years of software development experience, holding a Bach
 <a href="https://x.com/vabmoni">
   <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
 </a>
-</p>
+</div>
 
 ## ☕ Support My Work
 
@@ -145,7 +154,7 @@ Professional with three years of software development experience, holding a Bach
 
 </div>
 
-<p align="center">
+<div align="center">
   <b>Crafted with ❤️ by Victor Moni</b><br/>
   <sub>Let’s build something incredible together.</sub>
-</p>
+</div>
