@@ -65,7 +65,6 @@ Professional with three years of software development experience, holding a Bach
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
 ![H2 Database](https://img.shields.io/badge/-H2_Database-000000?style=flat&logo=h2)
-![Redis](https://img.shields.io/badge/-Redis-000000?style=flat&logo=redis)
 ![Karma](https://img.shields.io/badge/-Karma-000000?style=flat&logo=karma)
 ![Jasmine](https://img.shields.io/badge/-Jasmine-000000?style=flat&logo=jasmine)
 ![JUnit](https://img.shields.io/badge/-JUnit-000000?style=flat&logo=junit5)
@@ -90,8 +89,6 @@ Professional with three years of software development experience, holding a Bach
 ![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku&logoColor=3D0091)
 ![Material-UI](https://img.shields.io/badge/-Material%20UI-000000?style=flat&logo=Material%20UI&logoColor=0078D6)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
-![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm)
-![YARN](https://img.shields.io/badge/-yarn-000000?style=flat&logo=yarn)
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=565656)
 
 ## 📊 GitHub Analytics
