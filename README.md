@@ -39,13 +39,13 @@ Professional with three years of software development experience, holding a Bach
 
 ## 🚀 Core Focus Areas
 
-:electron: Full stack development  
+💻 Full stack development  
 🎨 UI/UX and immersive experiences  
 🏗️ System architecture and modernization  
 🛠️ Developer tooling and creative tech  
 🗄️ Database management and data pipelines
 
-## 💻 Technologies
+## :electron: Technologies
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
