@@ -106,9 +106,20 @@ Professional with three years of software development experience, holding a Bach
 <br/>
 
 <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=victormoni&theme=onedark&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
-
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <picture>
+      <!-- Mobile (até 600px): 2 linhas x 4 colunas -->
+      <source
+        media="(max-width: 600px)"
+        srcset="https://github-profile-trophy.vercel.app/?username=victormoni&theme=onedark&row=2&column=4&margin-w=10&margin-h=10"
+      />
+      <!-- Desktop (padrão): 1 linha x 8 colunas -->
+      <img
+        alt="GitHub Trophies"
+        src="https://github-profile-trophy.vercel.app/?username=victormoni&theme=onedark&row=1&column=8&margin-w=10&margin-h=10"
+      />
+    </picture>
+  </a>
 </div>
 
 ## 🌱 GitHub Contribution Graph
