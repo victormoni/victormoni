@@ -47,7 +47,7 @@ Professional with three years of software development experience, holding a Bach
 🛠️ Developer tooling and creative tech  
 🗄️ Database management and data pipelines
 
-## 💻 Technologies
+## 💻 Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
@@ -96,22 +96,26 @@ Professional with three years of software development experience, holding a Bach
 
 <br/>
 
+## 📊 GitHub Analytics
+
 <div align="center">
   
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victormoni&layout=compact&hide_border=true&theme=dark&bg_color=90,0d111700,fff) 
+
+</div>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=victormoni&show_icons=true&theme=dark&count_private=true&bg_color=90,0d111700,fff&hide_border=true" alt="GitHub stats" width="400" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=victormoni&theme=dark&background=90,0d111700,fff&backgroundType=gradient&hide_border=true" alt="GitHub streaks" width="400" />
 </div>
- 
-<br/>
 
-## GitHub Trophies
+
+
+## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=victormoni&theme=onedark&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
-</div>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/victormoni/victormoni/output/pacman-contribution-graph-dark.svg">
