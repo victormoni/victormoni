@@ -111,7 +111,6 @@ Professional with three years of software development experience, holding a Bach
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
 ![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm)
 ![YARN](https://img.shields.io/badge/-yarn-000000?style=flat&logo=yarn)
-![Sass](https://img.shields.io/badge/-SCSS-000000?style=flat&logo=sass)
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=565656)
 
 <br/>
