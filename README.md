@@ -141,7 +141,7 @@ Professional with three years of software development experience, holding a Bach
   <a href="https://stackoverflow.com/users/9859219">
   <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
 </a>
-  <a href="https://discord.gg/victormoni">
+<a href="https://discordapp.com/users/victormoni">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </a>
 </div>
