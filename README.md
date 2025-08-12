@@ -144,9 +144,6 @@ Professional with three years of software development experience, holding a Bach
   <a href="https://discord.gg/victormoni">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </a>
-<a href="https://x.com/vabmoni">
-  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
-</a>
 </div>
 
 ## ☕ Support My Work
