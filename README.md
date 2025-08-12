@@ -70,6 +70,61 @@ Professional with three years of software development experience, holding a Bach
 
 ### Frontend
 
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=TypeScript)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase)
+![Routre](https://img.shields.io/badge/-Router-000000?style=flat&logo=react-router)
+![NextJs](https://img.shields.io/badge/-NextJs-000000?style=flat&logo=Next.js)
+![NodeJs](https://img.shields.io/badge/-NodeJs-000000?style=flat&logo=Node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
+![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0078D6)
+![Sass](https://img.shields.io/badge/-SCSS-000000?style=flat&logo=sass)
+![Bootstrap5](https://img.shields.io/badge/-Bootstrap%205-000000?style=flat&logo=bootstrap)
+![Material-UI](https://img.shields.io/badge/-Material%20UI-000000?style=flat&logo=Material%20UI&logoColor=0078D6)
+![Tailwind-Css](https://img.shields.io/badge/-Tailwind%20CSS-000000?style=flat&logo=tailwindcss)
+![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux&logoColor=764ABC)
+![Font Awesome](https://img.shields.io/badge/-font%20awesome-000000?style=flat&logo=font-awesome)
+![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=565656)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
+![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)
+![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku&logoColor=3D0091)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=0078D6)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![React Native](https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react)
+![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm)
+![YARN](https://img.shields.io/badge/-yarn-000000?style=flat&logo=yarn)
+![ESlint](https://img.shields.io/badge/-ESlint-000000?style=flat&logo=ESlint&logoColor=3831ca)
+![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=0078D6)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
