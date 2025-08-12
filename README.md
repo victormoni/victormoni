@@ -2,33 +2,14 @@
   <img src="./assets/banner.png" alt="Banner" width="100%" style="border-radius:12px;">
 </p>
 
-<h1 align="center">Hello, I'm Victor Moni 👋😀</h1>
+<h1 align="center">Hi, I'm Victor Moni</h1>
 <h3 align="center">Full Stack Developer | Problem Solver | Lifelong Learner</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Empowering+people+through+code.;Building+amazing+things+%F0%9F%9A%80;Crafting+impactful+solutions." alt="Typing Animation" />
 </p>
 
-<p align="center">
-  <a href="mailto:victor-moni@hotmail.com">
-    <img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Hotmail" />
-  </a>
-  <a href="mailto:vabmoni@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/victormoni?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
-   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://stackoverflow.com/users/9859219">
-  <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
-</a>
-  <a href="https://discord.gg/victormoni">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-</a>
-<a href="https://x.com/vabmoni">
-  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
-</a>
-</p>
+
 
 <div align=center>
 <img align="center" 
@@ -135,6 +116,29 @@ Professional with three years of software development experience, holding a Bach
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/victormoni/victormoni/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/victormoni/victormoni/output/pacman-contribution-graph.svg">
 </picture>
+
+## Contact Me
+
+<p align="center">
+  <a href="mailto:victor-moni@hotmail.com">
+    <img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Hotmail" />
+  </a>
+  <a href="mailto:vabmoni@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+<a href="https://wa.me/5511943936479">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+</a>
+  <a href="https://stackoverflow.com/users/9859219">
+  <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
+</a>
+  <a href="https://discord.gg/victormoni">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
+<a href="https://x.com/vabmoni">
+  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+</a>
+</p>
 
 ## ☕ Support My Work
 
