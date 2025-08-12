@@ -94,8 +94,6 @@ Professional with three years of software development experience, holding a Bach
 ![YARN](https://img.shields.io/badge/-yarn-000000?style=flat&logo=yarn)
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=565656)
 
-<br/>
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -106,13 +104,13 @@ Professional with three years of software development experience, holding a Bach
 <img src="https://github-readme-streak-stats.herokuapp.com?user=victormoni&theme=dark&background=90,0d111700,fff&backgroundType=gradient&hide_border=true" alt="GitHub streaks" width="400" />
 </div>
 
-
-
 ## 🏆 GitHub Trophies
+
+<div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=victormoni&theme=onedark&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
-
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/victormoni/victormoni/output/pacman-contribution-graph-dark.svg">
