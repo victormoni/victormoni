@@ -106,11 +106,15 @@ Professional with three years of software development experience, holding a Bach
 
 ## 🏆 GitHub Trophies
 
+<br/>
+
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=victormoni&theme=onedark&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
+
+## 🌱 GitHub Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/victormoni/victormoni/output/pacman-contribution-graph-dark.svg">
@@ -118,9 +122,9 @@ Professional with three years of software development experience, holding a Bach
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/victormoni/victormoni/output/pacman-contribution-graph.svg">
 </picture>
 
-## Activity Graph
+## 📈 GitHub Activity Graph
 
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=victormoni&theme=dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=victormoni&bg_color=0d1117,000000,1a1a1a&color=ffffff&line=00ff00&point=00ff00&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 📱 Connect With Me
 
