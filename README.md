@@ -70,6 +70,68 @@ Professional with three years of software development experience, holding a Bach
 
 ### Frontend
 
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)
+![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-000000?style=flat&logo=tailwindcss)
+![Angular Material](https://img.shields.io/badge/-Angular_Material-000000?style=flat&logo=angular)
+![Vite](https://img.shields.io/badge/-Vite-000000?style=flat&logo=vite)
+
+### Backend
+
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-000000?style=flat&logo=springboot)
+![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)
+![Swagger](https://img.shields.io/badge/-Swagger-000000?style=flat&logo=swagger)
+![Apache Kafka](https://img.shields.io/badge/-Apache_Kafka-000000?style=flat&logo=apachekafka)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)
+![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft_SQL_Server-000000?style=flat&logo=microsoftsqlserver)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
+![H2 Database](https://img.shields.io/badge/-H2_Database-000000?style=flat&logo=h2)
+![Redis](https://img.shields.io/badge/-Redis-000000?style=flat&logo=redis)
+
+### Testing
+
+![Karma](https://img.shields.io/badge/-Karma-000000?style=flat&logo=karma)
+![Jasmine](https://img.shields.io/badge/-Jasmine-000000?style=flat&logo=jasmine)
+![JUnit](https://img.shields.io/badge/-JUnit-000000?style=flat&logo=junit5)
+![Mockito](https://img.shields.io/badge/-Mockito-000000?style=flat&logo=mockito)
+![Cypress](https://img.shields.io/badge/-Cypress-000000?style=flat&logo=cypress)
+![Jest](https://img.shields.io/badge/-Jest-000000?style=flat&logo=jest)
+
+### DevOps
+
+![Bamboo](https://img.shields.io/badge/-Bamboo-000000?style=flat&logo=bamboo)
+![Jenkins](https://img.shields.io/badge/-Jenkins-000000?style=flat&logo=jenkins)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=kubernetes)
+![Docker Compose](https://img.shields.io/badge/-Docker_Compose-000000?style=flat&logo=docker)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-000000?style=flat&logo=githubactions)
+
+### Design & Modeling
+
+![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)
+![UML](https://img.shields.io/badge/-UML-000000?style=flat&logo=uml)
+
+### Agile & Collaboration
+
+![Scrum](https://img.shields.io/badge/-Scrum-000000?style=flat&logo=scrumalliance)
+![Kanban](https://img.shields.io/badge/-Kanban-000000?style=flat&logo=trello)
+![Jira](https://img.shields.io/badge/-Jira-000000?style=flat&logo=jira)
+![Confluence](https://img.shields.io/badge/-Confluence-000000?style=flat&logo=confluence)
+
+
+
+
+
+
+
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
