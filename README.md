@@ -94,31 +94,14 @@ Professional with three years of software development experience, holding a Bach
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <!-- Most Used Languages -->
-  <picture>
-    <!-- Mobile -->
-    <source media="(max-width: 600px)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=victormoni&layout=compact&hide_border=true&theme=dark&bg_color=90,0d111700,fff&card_width=220" />
-    <!-- Desktop (equivalente ao width="300") -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormoni&layout=compact&hide_border=true&theme=dark&bg_color=90,0d111700,fff&card_width=300" alt="Most used languages" />
-  </picture>
 
-  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormoni&layout=compact&hide_border=true&theme=dark&bg_color=90,0d111700,fff&card_width=300" alt="Most used languages" />
 
-  <!-- GitHub Stats -->
-  <picture>
-    <!-- Mobile -->
-    <source media="(max-width: 600px)" srcset="https://github-readme-stats.vercel.app/api?username=victormoni&show_icons=true&theme=dark&count_private=true&bg_color=90,0d111700,fff&hide_border=true&card_width=260" />
-    <!-- Desktop (equivalente ao width="400") -->
-    <img src="https://github-readme-stats.vercel.app/api?username=victormoni&show_icons=true&theme=dark&count_private=true&bg_color=90,0d111700,fff&hide_border=true" width="400" alt="GitHub stats" />
-  </picture>
+<br/>
 
-  <!-- GitHub Streaks -->
-  <picture>
-    <!-- Mobile -->
-    <source media="(max-width: 600px)" srcset="https://github-readme-streak-stats.herokuapp.com?user=victormoni&theme=dark&background=90,0d111700,fff&backgroundType=gradient&hide_border=true&card_width=260" />
-    <!-- Desktop (equivalente ao width="400") -->
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=victormoni&theme=dark&background=90,0d111700,fff&backgroundType=gradient&hide_border=true" width="400" alt="GitHub streaks" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=victormoni&show_icons=true&theme=dark&count_private=true&bg_color=90,0d111700,fff&hide_border=true" width="400" alt="GitHub stats" />   
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=victormoni&theme=dark&background=90,0d111700,fff&backgroundType=gradient&hide_border=true" width="400" alt="GitHub streaks" />
+
 </div>
 
 ## 🏆 GitHub Trophies
