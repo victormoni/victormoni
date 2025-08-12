@@ -9,8 +9,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Empowering+people+through+code.;Building+amazing+things+%F0%9F%9A%80;Crafting+impactful+solutions." alt="Typing Animation" />
 </p>
 
-
-
 <div align=center>
 <img align="center" 
      alt="coding" 
@@ -100,7 +98,6 @@ Professional with three years of software development experience, holding a Bach
   
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victormoni&layout=compact&hide_border=true&theme=dark&bg_color=90,0d111700,fff) 
 
-
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=victormoni&show_icons=true&theme=dark&count_private=true&bg_color=90,0d111700,fff&hide_border=true" alt="GitHub stats" width="400" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=victormoni&theme=dark&background=90,0d111700,fff&backgroundType=gradient&hide_border=true" alt="GitHub streaks" width="400" />
@@ -117,7 +114,7 @@ Professional with three years of software development experience, holding a Bach
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/victormoni/victormoni/output/pacman-contribution-graph.svg">
 </picture>
 
-## Contact Me
+## 📱 Contact Me
 
 <p align="center">
   <a href="mailto:victor-moni@hotmail.com">
