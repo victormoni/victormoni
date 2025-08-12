@@ -39,7 +39,7 @@ Professional with three years of software development experience, holding a Bach
 
 ## 🚀 Core Focus Areas
 
-🌐 Full stack development  
+:electron: Full stack development  
 🎨 UI/UX and immersive experiences  
 🏗️ System architecture and modernization  
 🛠️ Developer tooling and creative tech  
@@ -114,7 +114,7 @@ Professional with three years of software development experience, holding a Bach
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/victormoni/victormoni/output/pacman-contribution-graph.svg">
 </picture>
 
-## 📱 Contact Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="mailto:victor-moni@hotmail.com">
