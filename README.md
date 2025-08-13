@@ -2,7 +2,7 @@
   <img src="./assets/banner.png" alt="Banner" width="100%" style="border-radius:12px;">
 </div>
 
-<h1 align="center">Hi, I'm Victor Moni</h1>
+<h2 align="center">Hi, I'm Victor Moni</h2>
 <h3 align="center">Full Stack Developer | Problem Solver | Lifelong Learner</h3>
 
 <div align="center">
