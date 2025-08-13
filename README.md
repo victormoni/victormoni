@@ -39,7 +39,7 @@ IT Intern **@ Itaú Unibanco** : 2018 - 2018
 
 Professional with three years of software development experience, holding a Bachelor’s degree in Information Systems and currently pursuing a postgraduate degree in Cloud Computing. Fluent in English and proactive, I focus on delivering high-value solutions for teams and companies, excel in multidisciplinary collaboration, and embrace challenges that drive innovation, growth, and excellence.
 
-## 🚀 Core Focus Areas
+## 🚀 Focus Areas
 
 🌐 Full stack development  
 🎨 UI/UX and immersive experiences  
