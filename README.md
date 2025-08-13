@@ -99,7 +99,8 @@ Professional with three years of software development experience, holding a Bach
 
 <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=victormoni&show_icons=true&theme=dark&count_private=true&bg_color=90,0d111700,fff&hide_border=true" width="400" alt="GitHub stats" />   
+  <img src="https://github-readme-stats.vercel.app/api?username=victormoni&show_icons=true&theme=dark&count_private=true&bg_color=90,0d111700,fff&hide_border=true" width="400" alt="GitHub stats" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com?user=victormoni&theme=dark&background=90,0d111700,fff&backgroundType=gradient&hide_border=true" width="400" alt="GitHub streaks" />
 
 </div>
