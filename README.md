@@ -137,21 +137,13 @@ Professional with three years of software development experience, holding a Bach
 ## 📱 Connect With Me
 
 <div align="center">
-  <a href="mailto:victor-moni@hotmail.com">
-    <img src="https://img.shields.io/badge/-Hotmail-0078D4?style=flat&logo=microsoftoutlook&logoColor=white" alt="Hotmail" />
-  </a>
-  <a href="mailto:vabmoni@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://wa.me/5511943936479">
-    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  <a href="https://stackoverflow.com/users/9859219">
-    <img src="https://img.shields.io/badge/-Stack%20Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
-  </a>
-  <a href="https://discordapp.com/users/victormoni">
-    <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" />
-  </a>
+  
+[![Hotmail](https://img.shields.io/badge/-Hotmail-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:victor-moni@hotmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vabmoni@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5511943936479)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/9859219)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/victormoni)
+
 </div>
 
 ## ☕ Support My Work
