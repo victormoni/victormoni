@@ -1,6 +1,6 @@
 <img src="./assets/banner.png">
 
-<h1 align="center">Hi, I'm Victor Moni 👋😀</h2>
+<h1 align="center">Hi, I'm Victor Moni 👋</h2>
 <h3 align="center">Full Stack Developer | Problem Solver | Lifelong Learner</h3>
 
 <div align="center">
@@ -61,8 +61,6 @@
 
 ## 📱 Connect With Me
 
-<br/>
-
 <div align="center">
   
 [![Hotmail](https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:victor-moni@hotmail.com)
@@ -74,8 +72,6 @@
 </div>
 
 ## ☕ Support My Work
-
-<br/>
 
 <div align="center">
   
