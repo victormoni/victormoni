@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="./assets/banner.png" alt="Banner" width="100%" style="border-radius:12px;">
-</div>
-
 <h2 align="center">Hi, I'm Victor Moni</h2>
 <h3 align="center">Full Stack Developer | Problem Solver | Lifelong Learner</h3>
 
@@ -124,11 +120,7 @@ Professional with three years of software development experience, holding a Bach
 
 ## 🌱 GitHub Contribution Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/victormoni/victormoni/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/victormoni/victormoni/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/victormoni/victormoni/output/pacman-contribution-graph.svg">
-</picture>
+![Status](./assets/profile-night-green.svg)
 
 ## 📈 GitHub Activity Graph
 
