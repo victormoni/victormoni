@@ -120,7 +120,7 @@ Professional with three years of software development experience, holding a Bach
 
 ## 🌱 GitHub Contribution Graph
 
-![Status](./assets/profile-night-green.svg)
+![Status](./profile-3d-contrib/profile-night-green.svg)
 
 ## 📈 GitHub Activity Graph
 
