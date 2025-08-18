@@ -1,6 +1,6 @@
 <img src="./assets/banner.png">
 
-<h2 align="center">Hi, I'm Victor Moni 👋😃</h2>
+<h2 align="center">Hi, I'm Victor Moni 👋😀</h2>
 <h3 align="center">Full Stack Developer | Problem Solver | Lifelong Learner</h3>
 
 <div align="center">
