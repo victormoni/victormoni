@@ -23,9 +23,7 @@
 ## 💻 Tech Stack
 
   <div align="center" >
-    <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,html,css,react,next,angular,tailwind,sass,bootstrap,materialui,vite,spring,docker,kubernetes,github,githubactions,figma,postman,linux,vercel,heroku,mysql,postgres,mongodb,kafka,jenkins,idea" />
-    </a>
     <br />
   </div>
 
@@ -43,7 +41,6 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
     <picture>
       <source
         media="(max-width: 600px)"
@@ -54,7 +51,6 @@
         src="https://github-profile-trophy.vercel.app/?username=victormoni&theme=onedark&row=1&column=8&margin-w=10&margin-h=10"
       />
     </picture>
-  </a>
 </div>
 
 ## ✍️ Dev Quote
