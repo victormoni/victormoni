@@ -5,6 +5,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Empowering+people+through+code.;Building+amazing+things+%F0%9F%9A%80;Crafting+impactful+solutions." alt="Typing Animation" />
 </div>
 
+[![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=victormoni&theme=github_dark&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victormoni&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+
+
+
 <div align=center>
   
 <img align="center" 
