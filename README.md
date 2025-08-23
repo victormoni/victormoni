@@ -58,13 +58,12 @@
 <div align="center">
   <picture>
     <source
-      media="(max-width: 400px)"
-      srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=dark"
+      media="(max-width: 600px)"
+      srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=dark&amp;width=400"
     />
     <img
       alt="DevQuote"
-      src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=dark"
-      width="600"
+      src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=dark&amp;width=600"
     />
   </picture>
 </div>
