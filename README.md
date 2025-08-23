@@ -58,8 +58,8 @@
 <div align="center">
   <picture>
     <source
-      media="(max-width: 500px)"
-      srcset="https://quotes-github-readme.vercel.app/api?type=vertical&amp;theme=dark"
+      media="(max-width: 400px)"
+      srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=dark"
     />
     <img
       alt="DevQuote"
