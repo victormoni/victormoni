@@ -56,9 +56,17 @@
 ## ✍️ Dev Quote
 
 <div align="center">
-
-  ![DevQuote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
+  <picture>
+    <source
+      media="(max-width: 600px)"
+      srcset="https://quotes-github-readme.vercel.app/api?type=vertical&amp;theme=dark"
+    />
+    <img
+      alt="DevQuote"
+      src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=dark"
+      width="600"
+    />
+  </picture>
 </div>
 
 ## 📱 Connect With Me
