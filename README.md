@@ -59,7 +59,7 @@
   <picture>
     <source
       media="(max-width: 600px)"
-      srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=dark&amp;width=300"
+      srcset="https://quotes-github-readme.vercel.app/api?type=vertical&amp;theme=dark&amp;heigth=400"
     />
     <img
       alt="DevQuote"
