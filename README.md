@@ -44,11 +44,11 @@
     <picture>
       <source
         media="(max-width: 600px)"
-        srcset="https://github-profile-trophy.vercel.app/?username=victormoni&theme=onedark&row=2&column=4&margin-w=10&margin-h=10"
+        srcset="https://github-profile-trophy.vercel.app/?username=victormoni&theme=onestar&no-frame=true&row=2&column=4&margin-w=10&margin-h=10"
       />
       <img
         alt="GitHub Trophies"
-        src="https://github-profile-trophy.vercel.app/?username=victormoni&theme=onedark&row=1&column=8&margin-w=10&margin-h=10"
+        src="https://github-profile-trophy.vercel.app/?username=victormoni&theme=onestar&no-frame=true&row=1&column=8&margin-w=10&margin-h=10"
       />
     </picture>
 </div>
