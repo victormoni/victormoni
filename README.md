@@ -63,7 +63,7 @@
     />
     <img
       alt="DevQuote"
-      src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=dark&amp;width=600"
+      src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=dark&amp"
     />
   </picture>
 </div>
