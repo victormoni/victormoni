@@ -58,7 +58,7 @@
 <div align="center">
   <picture>
     <source
-      media="(max-width: 600px)"
+      media="(max-width: 500px)"
       srcset="https://quotes-github-readme.vercel.app/api?type=vertical&amp;theme=dark"
     />
     <img
