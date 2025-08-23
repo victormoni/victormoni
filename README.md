@@ -55,9 +55,11 @@
 
 ## ✍️ Dev Quote
 
-<p>
-  “First, solve the problem. Then, write the code.” — <strong>John Johnson</strong>
-</p>
+<div align="center">
+
+  ![DevQuote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
 
 ## 📱 Connect With Me
 
