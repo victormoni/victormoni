@@ -59,11 +59,11 @@
   <picture>
     <source
       media="(max-width: 600px)"
-      srcset="https://quotes-github-readme.vercel.app/api?type=vertical&amp;theme=dark&amp;heigth=400"
+      srcset="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&heigth=400"
     />
     <img
       alt="DevQuote"
-      src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=dark"
+      src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&height=auto"
     />
   </picture>
 </div>
