@@ -23,7 +23,7 @@
 ## 💻 Tech Stack
 
   <div align="center" >
-      <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,html,css,react,next,angular,tailwind,sass,bootstrap,materialui,vite,spring,docker,kubernetes,github,githubactions,figma,postman,linux,nodejs,vercel,mysql,postgres,mongodb,kafka,jenkins,idea" />
+      <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,html,css,react,next,angular,tailwind,sass,bootstrap,materialui,vite,spring,docker,kubernetes,github,githubactions,figma,postman,linux,heroku,vercel,mysql,postgres,mongodb,kafka,jenkins,idea" />
     <br />
   </div>
 
