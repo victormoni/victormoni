@@ -19,8 +19,8 @@
 ## ✨ About Me  
 
 💻 **Full-Stack Developer** <br/>
-🌐 **Crafting Modern and Scalable Applications** <br/>
-⚙️ **DevOps Enthusiast**
+⚙️ **DevOps Enthusiast** <br/>
+🌐 **Crafting Modern Web Applications** 
 
 I’m passionate about building **scalable, impactful, and user-friendly applications**.  
 Beyond coding, I see myself as a **problem solver, innovator, and lifelong learner**.  
