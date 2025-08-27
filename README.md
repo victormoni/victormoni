@@ -20,7 +20,7 @@
 
 💻 **Full-Stack Developer** <br/>
 🌐 **Crafting Modern and Scalable Applications** <br/>
-☁️ **Cloud & DevOps Enthusiast**
+⚙️ **DevOps Enthusiast**
 
 I’m passionate about building **scalable, impactful, and user-friendly applications**.  
 Beyond coding, I see myself as a **problem solver, innovator, and lifelong learner**.  
