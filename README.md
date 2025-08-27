@@ -16,6 +16,40 @@
      
 </div>
 
+## ✨ About Me  
+
+💻 **Full-Stack Developer** <br/>
+🌐 **Crafting Modern and Scalable Applications** <br/>
+☁️ **Cloud & DevOps Enthusiast**
+
+I’m passionate about building **scalable, impactful, and user-friendly applications**.  
+Beyond coding, I see myself as a **problem solver, innovator, and lifelong learner**.  
+
+🚀 *Mission: Delivering modern applications that empower people and businesses.*  
+
+## 🔥 Current Focus  
+
+- 🌐 Full-Stack Development
+- ☁️ Cloud & DevOps 
+- 📊 Microservices & Messaging
+- 🧪 Testing & Quality
+
+## 🌟 Core Values  
+
+- Quality and scalability over shortcuts  
+- Collaboration and knowledge sharing  
+- Continuous learning and improvement  
+- Empathy for end-users  
+- Clear and transparent communication   
+
+## 🎯 2025/2026 Goals  
+
+-  Grow my open-source portfolio
+-  Achieve **Cloud certifications**  
+-  Publish **technical articles** and share insights on GitHub & LinkedIn  
+-  Mentor and collaborate with the dev community  
+-  Contribute to **enterprise-level microservices projects**  
+
 ## 🌱 Contributions Graph
 
 ![Status](./profile-3d-contrib/profile-night-green.svg)
