@@ -74,32 +74,10 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
 <br/>
 
 <div align="center">
-  <picture>
-    <source media="(max-width: 1024px)"
-            srcset="https://github-trophies.vercel.app/?username=victormoni&theme=onedark&no-frame=true&row=2&column=4&margin-w=10&margin-h=10&title=MultiLanguage,NewUser,Commits,PullRequest,Followers,Stars,Repository,Issues" />
-    <img alt="GitHub Trophies"
-         src="https://github-trophies.vercel.app/?username=victormoni&theme=onedark&no-frame=true&row=1&column=8&margin-w=10&margin-h=10&title=MultiLanguage,NewUser,Commits,PullRequest,Followers,Stars,Repository,Issues"
-         width="100%" />
-  </picture>
-</div>
-
-Dica: manter width="100%" ajuda a imagem se ajustar à coluna.
-
-2) Simples e robusto: use apenas uma imagem que se adapte bem em qualquer tela (sem <picture>):
-
-<div align="center">
   <img alt="GitHub Trophies"
        src="https://github-trophies.vercel.app/?username=victormoni&theme=onedark&no-frame=true&row=2&column=4&margin-w=10&margin-h=10&title=MultiLanguage,NewUser,Commits,PullRequest,Followers,Stars,Repository,Issues"
        width="100%" />
 </div>
-
-(2 linhas × 4 colunas costuma ficar bom no desktop e no mobile.)
-
-3) Duas versões empilhadas (sem mídia query) Se quiser garantir leitura perfeita em qualquer app/viewport do GitHub, coloque as duas imagens uma abaixo da outra (8×1 e 4×2). É redundante, mas 100% previsível.
-
-Se quiser, eu ajusto os parâmetros de row/column e margens para combinar com o resto do seu README.
-
-
 
 ## ✍️ Dev Quote
 
