@@ -77,7 +77,7 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
     <picture>
       <source
         media="(max-width: 600px)"
-        srcset="https://github-trophies.vercel.app/?username=victormoni&theme=onedark&no-frame=true&row=2&column=4&margin-w=10&margin-h=10"
+        srcset="https://github-trophies.vercel.app/?username=victormoni&theme=onedark&no-frame=true&row=2&column=4&margin-w=10&margin-h=10&title=AchiveSSSRank,MultiLanguage,NewUser,Commits,PullRequest,Followers,Stars,Repository,Issues"
       />
       <img
         alt="GitHub Trophies"
