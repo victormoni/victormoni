@@ -124,3 +124,6 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
   <b>Crafted with ❤️ by Victor Moni</b><br/>
   <sub>Let’s build something incredible together.</sub>
 </div>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
