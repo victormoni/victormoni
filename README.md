@@ -61,15 +61,6 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
     <br />
   </div>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormoni&layout=compact&hide_border=true&theme=dark&bg_color=90,0d111700,fff&card_width=400&cache_seconds=600" alt="Most used languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=victormoni&show_icons=true&theme=dark&count_private=true&bg_color=90,0d111700,fff&hide_border=true&cache_seconds=600" width="400" alt="GitHub stats" />
-  
-</div>
-
 ## 🏆 GitHub Trophies
 
 <br/>
@@ -111,8 +102,6 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511943936479)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/victormoni)
 [![DEV.to](https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/victormoni)
-
-
 
 </div>
 
