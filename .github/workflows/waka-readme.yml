@@ -15,7 +15,7 @@ jobs:
           COMMIT_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
           COMMIT_MESSAGE: '🚀waka: update readme'
           COMMIT_USERNAME: readme-bot
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           IGNORED_REPOS: victormoni
           LOCALE: en
           SECTION_NAME: waka
