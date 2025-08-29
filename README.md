@@ -1,4 +1,4 @@
-<img src="./assets/banner.png">
+[![MasterHead](https://github.com/Unik69420/Unik69420/blob/main/mario%20banner%20for%20github%20profile%20readme.gif?raw=true)](https://youtu.be/Eh2eFk6f9zc)
 
 <h1 align="center">Hi, I'm Victor Moni 👋</h2>
 <h3 align="center">Full Stack Developer | Problem Solver | Lifelong Learner</h3>
