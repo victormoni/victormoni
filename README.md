@@ -65,8 +65,8 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormoni&layout=compact&hide_border=true&theme=dark&card_width=400&cache_seconds=600" alt="Most used languages" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=victormoni&theme=dark&hide_border=true&layout=compact&bg_color=90,0d111700,fff&cache_seconds=600"><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormoni&layout=compact&hide_border=true&theme=dark&card_width=400&bg_color=90,0d111700,fff" alt="Most used languages" />
+  
 </div>
 
 ## 🏆 GitHub Trophies
