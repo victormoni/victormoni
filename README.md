@@ -8,47 +8,47 @@
 </div>
 
 <div align=center>
-  
-<img align="center" 
-     alt="coding" 
-     width="300" 
+
+<img align="center"
+     alt="coding"
+     width="300"
      src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
-     
+
 </div>
 
-## ✨ About Me  
+## ✨ About Me
 
 💻 **Full-Stack Developer** <br/>
 ⚙️ **DevOps Enthusiast** <br/>
-🌐 **Crafting Modern Web Applications** 
+🌐 **Crafting Modern Web Applications**
 
-I’m passionate about building **scalable, impactful, and user-friendly applications**.  
-Beyond coding, I see myself as a **problem solver, innovator, and lifelong learner**.  
+I’m passionate about building **scalable, impactful, and user-friendly applications**.
+Beyond coding, I see myself as a **problem solver, innovator, and lifelong learner**.
 
-🚀 *Mission: Delivering modern applications that empower people and businesses.*  
+🚀 *Mission: Delivering modern applications that empower people and businesses.*
 
-## 🔥 Current Focus  
+## 🔥 Current Focus
 
 - 🌐 Full-Stack Development
-- ☁️ Cloud & DevOps 
+- ☁️ Cloud & DevOps
 - 📊 Microservices & Messaging
 - 🧪 Testing & Quality
 
-## 🌟 Core Values  
+## 🌟 Core Values
 
-- Quality and scalability over shortcuts  
-- Collaboration and knowledge sharing  
-- Continuous learning and improvement  
-- Empathy for end-users  
-- Clear and transparent communication   
+- Quality and scalability over shortcuts
+- Collaboration and knowledge sharing
+- Continuous learning and improvement
+- Empathy for end-users
+- Clear and transparent communication
 
-## 🎯 2025/2026 Goals  
+## 🎯 2025/2026 Goals
 
 -  Grow my open-source portfolio
--  Achieve **Cloud certifications**  
--  Publish **technical articles** and share insights on GitHub & LinkedIn  
--  Mentor and collaborate with the dev community  
--  Contribute to **enterprise-level microservices projects**  
+-  Achieve **Cloud certifications**
+-  Publish **technical articles** and share insights on GitHub & LinkedIn
+-  Mentor and collaborate with the dev community
+-  Contribute to **enterprise-level microservices projects**
 
 ## 🌱 Contributions Graph
 
@@ -66,7 +66,7 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormoni&layout=compact&hide_border=true&theme=dark&card_width=400&bg_color=90,0d111700,fff" alt="Most used languages" />
-  
+
 </div>
 
 ## 🏆 GitHub Trophies
@@ -76,10 +76,10 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
 <div align="center">
 
   <picture>
-    <source media="(max-width: 1024px)"       srcset="https://github-trophies.vercel.app/?username=victormoni&theme=onedark&no-frame=true&row=2&column=4&margin-w=10&margin-h=10" 
-    />    
+    <source media="(max-width: 1024px)"       srcset="https://github-trophies.vercel.app/?username=victormoni&theme=onedark&no-frame=true&row=2&column=4&margin-w=10&margin-h=10"
+    />
     <img alt="GitHub Trophies"     src="https://github-trophies.vercel.app/?username=victormoni&theme=onedark&no-frame=true&row=1&column=8&margin-w=10&margin-h=10"
-      width="100%" 
+      width="100%"
     />
   </picture>
 
@@ -103,7 +103,7 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
 ## 📱 Connect With Me
 
 <div align="center">
-  
+
 [![Hotmail](https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:victor-moni@hotmail.com)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vabmoni@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511943936479)
@@ -115,7 +115,7 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
 ## ☕ Support My Work
 
 <div align="center">
-  
+
 [![Donate](https://img.shields.io/badge/Donate-PayPal-0070BA?logo=paypal&logoColor=white&style=for-the-badge)](https://www.paypal.com/donate/?hosted_button_id=QJJB8GFA7QGYW)
 
 </div>

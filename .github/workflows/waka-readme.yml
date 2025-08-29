@@ -16,7 +16,7 @@ jobs:
           COMMIT_MESSAGE: '🚀waka: update readme'
           COMMIT_USERNAME: readme-bot
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          IGNORED_REPOS: ponfertato, example
+          IGNORED_REPOS: victormoni
           LOCALE: en
           SECTION_NAME: waka
           SHOW_COMMIT: 'True'
