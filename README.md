@@ -56,10 +56,18 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
 
 ## 💻 Tech Stack
 
-  <div align="center" >
+  <div align="center">
       <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,html,css,react,next,angular,tailwind,sass,bootstrap,materialui,vite,spring,docker,kubernetes,github,githubactions,figma,postman,linux,heroku,vercel,mysql,postgres,mongodb,kafka,jenkins,idea" />
     <br />
   </div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormoni&layout=compact&hide_border=true&theme=dark&bg_color=90,0d111700,fff&card_width=400&cache_seconds=600" alt="Most used languages" />
+
+</div>
 
 ## 🏆 GitHub Trophies
 
