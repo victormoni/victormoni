@@ -76,14 +76,11 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
 <div align="center">
 
   <picture>
-
     <source media="(max-width: 1024px)"       srcset="https://github-trophies.vercel.app/?username=victormoni&theme=onedark&no-frame=true&row=2&column=4&margin-w=10&margin-h=10" 
-    />
-    
+    />    
     <img alt="GitHub Trophies"     src="https://github-trophies.vercel.app/?username=victormoni&theme=onedark&no-frame=true&row=1&column=8&margin-w=10&margin-h=10"
       width="100%" 
     />
-
   </picture>
 
 </div>
