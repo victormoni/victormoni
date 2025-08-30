@@ -19,7 +19,7 @@ jobs:
           IGNORED_REPOS: victormoni
           LOCALE: en
           SECTION_NAME: waka
-          SHOW_COMMIT: 'True'
+          SHOW_COMMIT: 'False'
           SHOW_DAYS_OF_WEEK: 'True'
           SHOW_EDITORS: 'True'
           SHOW_LANGUAGE: 'True'
