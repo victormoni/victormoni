@@ -61,14 +61,6 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
     <br />
   </div>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormoni&layout=compact&hide_border=true&theme=dark&card_width=400&bg_color=90,0d111700,fff" alt="Most used languages" />
-
-</div>
-
 ## 🏆 GitHub Trophies
 
 <br/>
