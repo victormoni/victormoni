@@ -21,8 +21,8 @@ jobs:
           SECTION_NAME: waka
           SHOW_COMMIT: 'True'
           SHOW_DAYS_OF_WEEK: 'True'
-          SHOW_EDITORS: 'True'
-          SHOW_LANGUAGE: 'True'
+          SHOW_EDITORS: 'False'
+          SHOW_LANGUAGE: 'False'
           SHOW_LANGUAGE_PER_REPO: 'False'
           SHOW_LINES_OF_CODE: 'True'
           SHOW_LOC_CHART: 'False'
