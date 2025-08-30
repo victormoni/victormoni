@@ -32,7 +32,7 @@ jobs:
           SHOW_SHORT_INFO: 'False'
           SHOW_TIMEZONE: 'False'
           SHOW_TOTAL_CODE_TIME: 'False'
-          SHOW_UPDATED_DATE: 'True'
+          SHOW_UPDATED_DATE: 'False'
           SYMBOL_VERSION: '3'
           UPDATED_DATE_FORMAT: '%d/%m/%Y %H:%M:%S'
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
