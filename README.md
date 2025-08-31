@@ -62,6 +62,8 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
 
 ### 🌱 Contributions Graph
 
+<img src="./assets/divider.gif" alt="Divider" width="100%" />
+
 ![Status](./profile-3d-contrib/profile-night-green.svg)
 
 ### 💻 Tech Stack
