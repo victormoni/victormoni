@@ -81,11 +81,6 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
 
 <div align="center">
 
-  <picture>
-    <source media="(max-width: 1024px)" srcset="https://github-trophies.vercel.app/?username=victormoni&theme=onedark&no-frame=true&row=2&column=4&margin-w=10&margin-h=10" />
-    <img alt="GitHub Trophies" src="https://github-trophies.vercel.app/?username=victormoni&theme=onedark&no-frame=true&row=1&column=8&margin-w=10&margin-h=10" width="100%" />
-  </picture>
-
 </div>
 
 ### ⚙️ Desktop Specifications
@@ -122,8 +117,6 @@ Friday                   229 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜�
 Saturday                 211 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.63 % 
 Sunday                   288 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.24 % 
 ```
-
-
 
 <!--END_SECTION:waka-->
 
