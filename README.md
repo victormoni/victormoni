@@ -20,7 +20,7 @@
 
 ### ✨ About Me
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header&reversal=true" width="100%"/>
+<img src="./assets/divider.gif" alt="Divider" width="100%" />
 
 💻 **Full-Stack Developer** <br/>
 ⚙️ **DevOps Enthusiast** <br/>
@@ -33,7 +33,7 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
 
 ### 🔥 Current Focus
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header&reversal=true" width="100%"/>
+<img src="./assets/divider.gif" alt="Divider" width="100%" />
 
 - 🌐 Full-Stack Development
 - ☁️ Cloud & DevOps
@@ -42,7 +42,7 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
 
 ### 🌟 Core Values
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header&reversal=true" width="100%"/>
+<img src="./assets/divider.gif" alt="Divider" width="100%" />
 
 - Quality and scalability over shortcuts
 - Collaboration and knowledge sharing
@@ -52,7 +52,7 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
 
 ### 🎯 2025/2026 Goals
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header&reversal=true" width="100%"/>
+<img src="./assets/divider.gif" alt="Divider" width="100%" />
 
 -  Grow my open-source portfolio
 -  Achieve **Cloud certifications**
@@ -66,7 +66,7 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
 
 ### 💻 Tech Stack
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header&reversal=true" width="100%"/>
+<img src="./assets/divider.gif" alt="Divider" width="100%" />
 
   <div align="center">
       <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,html,css,react,next,angular,tailwind,sass,bootstrap,materialui,vite,spring,docker,kubernetes,github,githubactions,figma,postman,linux,heroku,vercel,mysql,postgres,mongodb,kafka,jenkins,idea" />
@@ -75,7 +75,7 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
 
 ### 🏆 GitHub Trophies
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header&reversal=true" width="100%"/>
+<img src="./assets/divider.gif" alt="Divider" width="100%" />
 
 <br/>
 
@@ -90,7 +90,7 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
 
 ### ⚙️ Desktop Specifications
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header&reversal=true" width="100%"/>
+<img src="./assets/divider.gif" alt="Divider" width="100%" />
 
 <div align="center">
 
@@ -100,7 +100,7 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
 
 ### 🔥 Productivity Heatmap
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header&reversal=true" width="100%"/>
+<img src="./assets/divider.gif" alt="Divider" width="100%" />
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
@@ -129,7 +129,7 @@ Sunday                   288 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜�
 
 ### ✍️ Dev Quote
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header&reversal=true" width="100%"/>
+<img src="./assets/divider.gif" alt="Divider" width="100%" />
 
 <div align="center">
   <picture>
@@ -146,7 +146,7 @@ Sunday                   288 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜�
 
 ### 📱 Connect With Me
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header&reversal=true" width="100%"/>
+<img src="./assets/divider.gif" alt="Divider" width="100%" />
 
 <div align="center">
 
@@ -160,7 +160,7 @@ Sunday                   288 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜�
 
 ### ☕ Support My Work
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header&reversal=true" width="100%"/>
+<img src="./assets/divider.gif" alt="Divider" width="100%" />
 
 <div align="center">
 
