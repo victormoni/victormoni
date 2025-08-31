@@ -1,0 +1,24 @@
+<svg width="500" height="280" viewBox="0 0 500 280" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fundo -->
+  <rect x="0" y="0" width="500" height="280" rx="10" fill="#0d1117" />
+
+  <!-- Topo preto -->
+  <path d="M0,10 Q0,0 10,0 H490 Q500,0 500,10 V60 H0 Z" fill="#000000" />
+
+  <!-- Linha separadora -->
+  <rect x="0" y="60" width="500" height="3" fill="#141818" />
+
+  <!-- Título -->
+  <text x="20" y="38" font-family="monospace" font-size="18" font-weight="bold" fill="#55D799">Specs</text>
+
+  <!-- Conteúdo -->
+  <text x="20" y="100" font-family="monospace" font-size="16" font-weight="bold" fill="#569CD6">🌐 OS: <tspan fill="#CD9077">Windows 11 Pro</tspan></text>
+  <text x="20" y="130" font-family="monospace" font-size="16" font-weight="bold" fill="#569CD6">🖥️ Desktop: <tspan fill="#CD9077">BIOSTAR Group H510MHP</tspan></text>
+  <text x="20" y="160" font-family="monospace" font-size="16" font-weight="bold" fill="#569CD6">⚙️ CPU: <tspan fill="#CD9077">10th Gen Intel Core i5-10400F</tspan></text>
+  <text x="20" y="190" font-family="monospace" font-size="16" font-weight="bold" fill="#569CD6">🎮 GPU: <tspan fill="#CD9077">NVIDIA GeForce GTX 1650</tspan></text>
+  <text x="20" y="220" font-family="monospace" font-size="16" font-weight="bold" fill="#569CD6">🧠 Memory: <tspan fill="#CD9077">16 GB</tspan></text>
+  <text x="20" y="250" font-family="monospace" font-size="16" font-weight="bold" fill="#569CD6">🛠️ IDE: <tspan fill="#CD9077">VS Code, IntelliJ IDEA, PyCharm</tspan></text>
+</svg>
+
+
+
