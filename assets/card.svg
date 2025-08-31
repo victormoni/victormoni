@@ -1,6 +1,13 @@
 <svg width="500" height="280" viewBox="0 0 500 280" xmlns="http://www.w3.org/2000/svg">
-  <!-- Fundo -->
-  <rect x="0" y="0" width="500" height="280" rx="10" fill="#0d1117" />
+  <!-- Definição do filtro de sombra -->
+  <defs>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000000" flood-opacity="0.6"/>
+    </filter>
+  </defs>
+
+  <!-- Fundo com sombra -->
+  <rect x="0" y="0" width="500" height="280" rx="10" fill="#070A08" filter="url(#shadow)" />
 
   <!-- Topo preto -->
   <path d="M0,10 Q0,0 10,0 H490 Q500,0 500,10 V60 H0 Z" fill="#000000" />
@@ -19,6 +26,7 @@
   <text x="20" y="220" font-family="monospace" font-size="16" font-weight="bold" fill="#569CD6">🧠 Memory: <tspan fill="#CD9077">16 GB</tspan></text>
   <text x="20" y="250" font-family="monospace" font-size="16" font-weight="bold" fill="#569CD6">🛠️ IDE: <tspan fill="#CD9077">VS Code, IntelliJ IDEA, PyCharm</tspan></text>
 </svg>
+
 
 
 
