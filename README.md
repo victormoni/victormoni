@@ -1,7 +1,9 @@
 ![MasterHead](https://github.com/Unik69420/Unik69420/blob/main/mario%20banner%20for%20github%20profile%20readme.gif?raw=true)
 
-<h1 align="center">Hi, I'm Victor Moni 👋</h2>
+<h3 align="center">Hi, I'm Victor Moni 👋</h3>
 <h3 align="center">Full Stack Developer | Problem Solver | Lifelong Learner</h3>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header&reversal=true" width="100%"/>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Empowering+people+through+code.;Building+amazing+things+%F0%9F%9A%80;Crafting+impactful+solutions." alt="Typing Animation" />
@@ -13,10 +15,11 @@
      alt="coding"
      width="300"
      src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
-
 </div>
 
-## ✨ About Me
+### ✨ About Me
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header&reversal=true" width="100%"/>
 
 💻 **Full-Stack Developer** <br/>
 ⚙️ **DevOps Enthusiast** <br/>
@@ -27,14 +30,18 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
 
 🚀 *Mission: Delivering modern applications that empower people and businesses.*
 
-## 🔥 Current Focus
+### 🔥 Current Focus
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header&reversal=true" width="100%"/>
 
 - 🌐 Full-Stack Development
 - ☁️ Cloud & DevOps
 - 📊 Microservices & Messaging
 - 🧪 Testing & Quality
 
-## 🌟 Core Values
+### 🌟 Core Values
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header&reversal=true" width="100%"/>
 
 - Quality and scalability over shortcuts
 - Collaboration and knowledge sharing
@@ -42,7 +49,9 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
 - Empathy for end-users
 - Clear and transparent communication
 
-## 🎯 2025/2026 Goals
+### 🎯 2025/2026 Goals
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header&reversal=true" width="100%"/>
 
 -  Grow my open-source portfolio
 -  Achieve **Cloud certifications**
@@ -50,18 +59,22 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
 -  Mentor and collaborate with the dev community
 -  Contribute to **enterprise-level microservices projects**
 
-## 🌱 Contributions Graph
+### 🌱 Contributions Graph
 
 ![Status](./profile-3d-contrib/profile-night-green.svg)
 
-## 💻 Tech Stack
+### 💻 Tech Stack
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header&reversal=true" width="100%"/>
 
   <div align="center">
       <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,html,css,react,next,angular,tailwind,sass,bootstrap,materialui,vite,spring,docker,kubernetes,github,githubactions,figma,postman,linux,heroku,vercel,mysql,postgres,mongodb,kafka,jenkins,idea" />
     <br />
   </div>
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header&reversal=true" width="100%"/>
 
 <br/>
 
@@ -73,6 +86,10 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
   </picture>
 
 </div>
+
+### 🔥 Productivity Heatmap
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header&reversal=true" width="100%"/>
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
@@ -99,7 +116,9 @@ Sunday                   288 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜�
 
 <!--END_SECTION:waka-->
 
-## ✍️ Dev Quote
+### ✍️ Dev Quote
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header&reversal=true" width="100%"/>
 
 <div align="center">
   <picture>
@@ -114,7 +133,9 @@ Sunday                   288 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜�
   </picture>
 </div>
 
-## 📱 Connect With Me
+### 📱 Connect With Me
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header&reversal=true" width="100%"/>
 
 <div align="center">
 
@@ -126,7 +147,9 @@ Sunday                   288 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜�
 
 </div>
 
-## ☕ Support My Work
+### ☕ Support My Work
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header&reversal=true" width="100%"/>
 
 <div align="center">
 
