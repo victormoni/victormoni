@@ -4,7 +4,7 @@
 
 <h3 align="center">Full Stack Developer | Problem Solver | Lifelong Learner</h3>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2px"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header&reversal=true" width="100%"/>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Empowering+people+through+code.;Building+amazing+things+%F0%9F%9A%80;Crafting+impactful+solutions." alt="Typing Animation" />
