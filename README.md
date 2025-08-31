@@ -97,7 +97,7 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
 
 <div align="center">
 
-<img src="./assets/card.svg?v=2" alt="PC Specs Card" witdh="500"/>
+<img src="./assets/card.svg?v=2" alt="PC Specs Card" />
 
 </div>
 
