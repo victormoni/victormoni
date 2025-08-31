@@ -88,11 +88,15 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
 
 </div>
 
-### Desktop Specifications
+### ⚙️ Desktop Specifications
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header&reversal=true" width="100%"/>
 
+<div align="center">
 
+<img src="./assets/card.svg" alt="PC Specs Card" />
 
+</div>
 
 ### 🔥 Productivity Heatmap
 
