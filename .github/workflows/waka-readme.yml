@@ -1,4 +1,4 @@
-name: Waka Readme
+name: Waka Time
 'on':
   schedule: [{ cron: "0 0 * * *" }]
   workflow_dispatch: null
@@ -15,20 +15,20 @@ jobs:
           COMMIT_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
           COMMIT_MESSAGE: '🚀waka: update readme'
           COMMIT_USERNAME: readme-bot
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          IGNORED_REPOS: ponfertato, example
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          IGNORED_REPOS: victormoni
           LOCALE: en
           SECTION_NAME: waka
           SHOW_COMMIT: 'True'
           SHOW_DAYS_OF_WEEK: 'True'
-          SHOW_EDITORS: 'True'
-          SHOW_LANGUAGE: 'True'
+          SHOW_EDITORS: 'False'
+          SHOW_LANGUAGE: 'False'
           SHOW_LANGUAGE_PER_REPO: 'False'
           SHOW_LINES_OF_CODE: 'False'
           SHOW_LOC_CHART: 'False'
-          SHOW_OS: 'True'
+          SHOW_OS: 'False'
           SHOW_PROFILE_VIEWS: 'False'
-          SHOW_PROJECTS: 'True'
+          SHOW_PROJECTS: 'False'
           SHOW_SHORT_INFO: 'False'
           SHOW_TIMEZONE: 'False'
           SHOW_TOTAL_CODE_TIME: 'False'
