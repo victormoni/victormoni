@@ -142,7 +142,7 @@ Sunday                   288 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜�
 
 <div align="center">
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-0070BA?logo=paypal&logoColor=white&style=for-the-badge)](https://www.paypal.com/donate/?hosted_button_id=QJJB8GFA7QGYW)
+<a href="https://www.buymeacoffee.com/victormoni" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 </div>
 
