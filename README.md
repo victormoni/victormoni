@@ -1,10 +1,8 @@
 ![MasterHead](https://github.com/Unik69420/Unik69420/blob/main/mario%20banner%20for%20github%20profile%20readme.gif?raw=true)
 
-<h3 align="center">Hi, I'm Victor Moni 👋</h3>
+<h1 align="center">Hi, I'm Victor Moni 👋</h1>
 
 <h3 align="center">Full Stack Developer | Problem Solver | Lifelong Learner</h3>
-
-<img src="./assets/divider.gif" alt="Divider" width="100%" />
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Empowering+people+through+code.;Building+amazing+things+%F0%9F%9A%80;Crafting+impactful+solutions." alt="Typing Animation" />
@@ -18,9 +16,7 @@
      src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 </div>
 
-### ✨ About Me
-
-<img src="./assets/divider.gif" alt="Divider" width="100%" />
+## ✨ About Me
 
 💻 **Full-Stack Developer** <br/>
 ⚙️ **DevOps Enthusiast** <br/>
@@ -31,9 +27,7 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
 
 🚀 *Mission: Delivering modern applications that empower people and businesses.*
 
-### 🌟 Core Values
-
-<img src="./assets/divider.gif" alt="Divider" width="100%" />
+## 🌟 Core Values
 
 - Quality and scalability over shortcuts
 - Collaboration and knowledge sharing
@@ -41,9 +35,7 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
 - Empathy for end-users
 - Clear and transparent communication
 
-### 🎯 2025/2026 Goals
-
-<img src="./assets/divider.gif" alt="Divider" width="100%" />
+## 🎯 2025/2026 Goals
 
 -  Grow my open-source portfolio
 -  Achieve **Cloud certifications**
@@ -51,30 +43,23 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
 -  Mentor and collaborate with the dev community
 -  Contribute to **enterprise-level microservices projects**
 
-### 🌱 Contributions Graph
-
-<img src="./assets/divider.gif" alt="Divider" width="100%" />
+## 🌱 Contributions Graph
 
 ![Status](./profile-3d-contrib/profile-night-green.svg)
 
-### 💻 Tech Stack
-
-<img src="./assets/divider.gif" alt="Divider" width="100%" />
+## 💻 Tech Stack
 
   <div align="center">
       <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,html,css,react,next,angular,tailwind,sass,bootstrap,materialui,vite,spring,docker,kubernetes,github,githubactions,figma,postman,linux,heroku,vercel,mysql,postgres,mongodb,kafka,jenkins,idea" />
     <br />
   </div>
 
-### 🏆 GitHub Trophies
-
-<img src="./assets/divider.gif" alt="Divider" width="100%" />
+## 🏆 GitHub Trophies
 
   <picture>
     <source media="(max-width: 1024px)" srcset="https://github-trophies.vercel.app/?username=victormoni&theme=onedark&no-frame=true&row=2&column=4&margin-w=10&margin-h=10" />
     <img alt="GitHub Trophies" src="https://github-trophies.vercel.app/?username=victormoni&theme=onedark&no-frame=true&row=1&column=8&margin-w=10&margin-h=10" width="100%" />
   </picture>
-
 
 <br/>
 
@@ -82,9 +67,7 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
 
 </div>
 
-### ⚙️ Desktop Specifications
-
-<img src="./assets/divider.gif" alt="Divider" width="100%" />
+## ⚙️ Desktop Specifications
 
 <div align="center">
 
@@ -92,9 +75,7 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
 
 </div>
 
-### 🔥 Productivity Heatmap
-
-<img src="./assets/divider.gif" alt="Divider" width="100%" />
+## 🔥 Productivity Heatmap
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
@@ -119,9 +100,9 @@ Sunday                   288 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜�
 
 <!--END_SECTION:waka-->
 
-### 📱 Connect With Me
+## 📱 Connect With Me
 
-<img src="./assets/divider.gif" alt="Divider" width="100%" />
+<br/>
 
 <div align="center">
 
@@ -142,9 +123,7 @@ Sunday                   288 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜�
 
 </div>
 
-### ✍️ Dev Quote
-
-<img src="./assets/divider.gif" alt="Divider" width="100%" />
+## ✍️ Dev Quote
 
 <div align="center">
   <picture>
@@ -159,9 +138,7 @@ Sunday                   288 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜�
   </picture>
 </div>
 
-### ☕ Support My Work
-
-<img src="./assets/divider.gif" alt="Divider" width="100%" />
+## ☕ Support My Work
 
 <div align="center">
 
