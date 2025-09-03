@@ -98,6 +98,62 @@ Saturday                 211 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜�
 Sunday                   288 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.24 % 
 ```
 
-
-
 <!--END_SECTION:waka-->
+
+## 📱 Connect With Me
+
+<br/>
+
+<div align="center">
+
+[![Hotmail](https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:victor-moni@hotmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vabmoni@gmail.com)
+[![Roadmap.sh](https://img.shields.io/badge/Roadmap.sh-0A0A0A?style=for-the-badge&logo=roadmap.sh&logoColor=white)](https://roadmap.sh/u/victormoni)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511943936479)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/victormoni)
+[![Stack Overflow](https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/9859219)
+[![DEV.to](https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/victormoni)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/vabmoni)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/victormoni)
+[![daily.dev](https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=daily.dev&logoColor=white)](https://app.daily.dev/victormoni)
+[![GitLab](https://img.shields.io/badge/GitLab-darkgray?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/victormoni)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white)](https://bsky.app/profile/victormoni.bsky.social)
+[![Jira](https://img.shields.io/badge/-Atlassian-0052CC?style=for-the-badge&logo=atlassian&logoColor=white)](https://victormoni.atlassian.net/)
+[![Bitbucket](https://img.shields.io/badge/-Bitbucket-205081?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/victor-moni)
+
+</div>
+
+## ✍️ Dev Quote
+
+<div align="center">
+  <picture>
+    <source
+      media="(max-width: 600px)"
+      srcset="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&heigth=400"
+    />
+    <img
+      alt="DevQuote"
+      src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&height=auto"
+    />
+  </picture>
+</div>
+
+## ☕ Support My Work
+
+<div align="center">
+
+<a href="https://www.buymeacoffee.com/victormoni" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+</div>
+
+<div align="center">
+  <b>Crafted with ❤️ by Victor Moni</b><br/>
+  <sub>Let’s build something incredible together.</sub>
+</div>
+
+
+
+
+
+
+
