@@ -135,7 +135,7 @@ Sunday                   288 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜�
     />
     <img
       alt="DevQuote"
-      src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&height=auto"
+      src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
     />
   </picture>
 </div>
