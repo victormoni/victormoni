@@ -122,6 +122,8 @@ Sunday                   265 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜�
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white)](https://bsky.app/profile/victormoni.bsky.social)
 [![Jira](https://img.shields.io/badge/-Atlassian-0052CC?style=for-the-badge&logo=atlassian&logoColor=white)](https://victormoni.atlassian.net/)
 [![Bitbucket](https://img.shields.io/badge/-Bitbucket-205081?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/victor-moni)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-victormoni-2F8D46?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/victormoni/)
+
 
 </div>
 
