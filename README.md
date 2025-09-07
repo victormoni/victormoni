@@ -108,7 +108,6 @@ Sunday                   265 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜�
 
 <div align="center">
 
-[![Hotmail](https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:victor-moni@hotmail.com)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vabmoni@gmail.com)
 [![Roadmap.sh](https://img.shields.io/badge/Roadmap.sh-0A0A0A?style=for-the-badge&logo=roadmap.sh&logoColor=white)](https://roadmap.sh/u/victormoni)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511943936479)
