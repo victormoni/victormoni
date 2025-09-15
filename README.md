@@ -75,6 +75,10 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
 
 </div>
 
+## 🛡️ Holopin Badges
+
+[![An image of @victormoni's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/victormoni)](https://holopin.io/@victormoni)
+
 ## 🔥 Productivity Heatmap
 
 <!--START_SECTION:waka-->
