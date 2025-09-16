@@ -15,7 +15,7 @@
      width="300"
      src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
-![Profile Views](https://komarev.com/ghpvc/?username=victormoni&color=blue&style=flat-square)
+<img src="https://komarev.com/ghpvc/?username=victormoni&color=blue&style=flat-square" alt="Profile Views" width="150" height="40"/>
 
 </div>
 
