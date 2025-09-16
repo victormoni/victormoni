@@ -53,12 +53,12 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
       <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,html,css,react,next,angular,tailwind,sass,bootstrap,materialui,vite,spring,docker,kubernetes,github,githubactions,figma,postman,linux,heroku,vercel,mysql,postgres,mongodb,kafka,jenkins,idea" />
     <br />
   </div>
-
+https://github-trophies.vercel.app
 ## 🏆 GitHub Trophies
 
   <picture>
-    <source media="(max-width: 1024px)" srcset="https://github-trophies.vercel.app/?username=victormoni&theme=onedark&no-frame=true&row=3&column=4&margin-w=10&margin-h=10" />
-    <img alt="GitHub Trophies" src="https://github-trophies.vercel.app/?username=victormoni&theme=onedark&no-frame=true&row=1&column=12&margin-w=10&margin-h=10" width="100%" />
+    <source media="(max-width: 1024px)" srcset="https://github-profile-trophy.vercel.app?username=victormoni&theme=onedark&no-frame=true&row=3&column=4&margin-w=10&margin-h=10" />
+    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app?username=victormoni&theme=onedark&no-frame=true&row=1&column=12&margin-w=10&margin-h=10" width="100%" />
   </picture>
 
 <br/>
