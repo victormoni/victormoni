@@ -82,17 +82,17 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
     <img alt="GitHub Trophies" src="https://github-trophies.vercel.app?username=victormoni&theme=onedark&no-frame=true&row=2&column=6&margin-w=10&margin-h=10" width="100%" />
   </picture>
 
+## 🛡️ Holopin Badges
+
+[![An image of @victormoni's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/victormoni)](https://holopin.io/@victormoni)
+
 ## ⚙️ Desktop Specifications
 
 <div align="center">
 
-<img src="./assets/card.svg" alt="PC Specs Card" />
+<img src="./assets/card.svg" />
 
 </div>
-
-## 🛡️ Holopin Badges
-
-[![An image of @victormoni's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/victormoni)](https://holopin.io/@victormoni)
 
 ## 🔥 Productivity Heatmap
 
