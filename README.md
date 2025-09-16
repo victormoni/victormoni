@@ -9,11 +9,14 @@
 </div>
 
 <div align=center>
-
+  
 <img align="center"
      alt="coding"
      width="300"
      src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+
+![Profile Views](https://komarev.com/ghpvc/?username=victormoni&color=blue&style=flat-square)
+
 </div>
 
 ## ✨ About Me
@@ -50,9 +53,27 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
 ## 💻 Tech Stack
 
   <div align="center">
-      <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,html,css,react,next,angular,tailwind,sass,bootstrap,materialui,vite,spring,docker,kubernetes,github,githubactions,figma,postman,linux,heroku,vercel,mysql,postgres,mongodb,kafka,jenkins,idea" />
-    <br />
+   
+   <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,html,css,react,next,angular,tailwind,sass,bootstrap,materialui,vite,spring,docker,kubernetes,github,githubactions,figma,postman,linux,heroku,vercel,mysql,postgres,mongodb,kafka,jenkins,idea" />
+
   </div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=victormoni&hide=commits&show=discussions_started,discussions_answered,prs_merged&theme=dark&show_icons=true&hide_border=true)
+  
+</div>
+
+## 🛠️ Top Languages
+
+<div align="center">
+  
+  ![Top Languages by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victormoni&theme=dark)
+  ![Top Languages by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=victormoni&theme=dark)
+  
+</div>
 
 ## 🏆 GitHub Trophies
 
@@ -60,12 +81,6 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
     <source media="(max-width: 1024px)" srcset="https://github-trophies.vercel.app?username=victormoni&theme=onedark&no-frame=true&row=3&column=4&margin-w=10&margin-h=10" />
     <img alt="GitHub Trophies" src="https://github-trophies.vercel.app?username=victormoni&theme=onedark&no-frame=true&row=2&column=6&margin-w=10&margin-h=10" width="100%" />
   </picture>
-
-<br/>
-
-<div align="center">
-
-</div>
 
 ## ⚙️ Desktop Specifications
 
