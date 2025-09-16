@@ -9,7 +9,7 @@
 </div>
 
 <div align=center>
-  
+
 <img align="center"
      alt="coding"
      width="300"
@@ -53,7 +53,7 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
 ## 💻 Tech Stack
 
   <div align="center">
-   
+
    <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,html,css,react,next,angular,tailwind,sass,bootstrap,materialui,vite,spring,docker,kubernetes,github,githubactions,figma,postman,linux,heroku,vercel,mysql,postgres,mongodb,kafka,jenkins,idea" />
 
   </div>
@@ -61,18 +61,18 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
 ## 📊 GitHub Stats
 
 <div align="center">
-  
+
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=victormoni&hide=commits&show=discussions_started,discussions_answered,prs_merged&theme=dark&show_icons=true&hide_border=true)
-  
+
 </div>
 
 ## 🛠️ Top Languages
 
 <div align="center">
-  
+
   ![Top Languages by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victormoni&theme=dark)
   ![Top Languages by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=victormoni&theme=dark)
-  
+
 </div>
 
 ## 🏆 GitHub Trophies
@@ -97,24 +97,24 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
 ## 🔥 Productivity Heatmap
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning                622 commits         ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   32.43 % 
-🌆 Daytime                633 commits         ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   33.00 % 
-🌃 Evening                406 commits         ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   21.17 % 
-🌙 Night                  257 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.40 % 
+🌞 Morning                622 commits         ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   32.43 %
+🌆 Daytime                633 commits         ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   33.00 %
+🌃 Evening                406 commits         ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   21.17 %
+🌙 Night                  257 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.40 %
 ```
-📅 **I'm Most Productive on Sunday** 
+📅 **I'm Most Productive on Sunday**
 
 ```text
-Monday                   281 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.65 % 
-Tuesday                  283 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.75 % 
-Wednesday                251 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.09 % 
-Thursday                 234 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.20 % 
-Friday                   290 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.12 % 
-Saturday                 281 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.65 % 
-Sunday                   298 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.54 % 
+Monday                   281 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.65 %
+Tuesday                  283 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.75 %
+Wednesday                251 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.09 %
+Thursday                 234 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.20 %
+Friday                   290 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.12 %
+Saturday                 281 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.65 %
+Sunday                   298 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.54 %
 ```
 
 
@@ -142,9 +142,6 @@ Sunday                   298 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜�
 [![Bitbucket](https://img.shields.io/badge/-Bitbucket-205081?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/victormoni)
 [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/victormoni/)
 [![Mastodon](https://img.shields.io/badge/-Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@victormoni)
-
-
-
 
 </div>
 
